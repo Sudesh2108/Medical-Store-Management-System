@@ -1,6 +1,6 @@
-# Medical-Store-Management-System
+# Real-Time Pharmaceutical Inventory System 
 
-# 💊 Medical Store Management System
+# 💊 Real-Time Pharmaceutical Inventory System 
 
 A desktop application built in Java for managing stock, sales, and reporting for a medical store.
 
